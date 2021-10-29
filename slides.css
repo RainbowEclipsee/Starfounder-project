@@ -1,0 +1,43 @@
+/* Slides */
+
+.start-slide {
+  background: linear-gradient(220.16deg, #111119 -8%, #121214 138%);
+}
+
+.two-slide {
+  background: linear-gradient(221.87deg, #12151a 1%, #0b0d0f 128%);
+}
+
+.three-slide {
+  background: linear-gradient(215.32deg, #201c1b -1%, #11131f 124%);
+}
+
+.four-slide {
+  background: linear-gradient(229.99deg, #1d1d1d -26%, #000000 145%);
+}
+
+.last-slide {
+  background: linear-gradient(171.87deg, #035a0e 1%, #0c1d13 120%);
+}
+
+/* Backgrounds slides */
+
+.start-slide-bg {
+  background-image: url('https://sun9-46.userapi.com/impg/c857536/v857536869/13e499/LcIRyX7bHfw.jpg?size=2560x1903&quality=96&sign=5c7acf0cffcd7de511c85aa30df5116b&type=album');
+}
+
+.two-slide-bg {
+  background-image: url('https://sun9-63.userapi.com/impf/c840337/v840337110/213a9/4iMW5LKkY6U.jpg?size=1200x801&quality=96&sign=f145b26ce168b109cae78f0ecf886982&type=album');
+}
+
+.three-slide-bg {
+  background-image: url('https://sun9-38.userapi.com/impf/c844721/v844721290/67593/eyVm_RjBiHs.jpg?size=1600x1600&quality=96&sign=736fef813ddc48a834942b45c2c1d852&type=album');
+}
+
+.four-slide-bg {
+  background-image: url('https://sun9-75.userapi.com/impf/c846220/v846220403/1ed020/6f_JCNn1Ix0.jpg?size=2160x2160&quality=96&sign=608b15463a7a1b36f096e2df5424d642&type=album');
+}
+
+.last-slide-bg {
+  background-image: url('https://static.wixstatic.com/media/634b5b_733dd63e2f554922a713c7b99c839f63~mv2.jpg/v1/fill/w_1960,h_1102,al_c,q_85,usm_0.66_1.00_0.01/634b5b_733dd63e2f554922a713c7b99c839f63~mv2.webp');
+}
